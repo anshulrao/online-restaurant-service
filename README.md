@@ -40,8 +40,10 @@
 
 ## Execution
 
-NOTE: Start the KitchenService and FinanceService before OrderService and mak3 sure you are inside
-%src before executing the below commands
+NOTE: Start the `KitchenService` and `FinanceService` before `OrderService` and make sure you are inside
+`%src` before executing the below commands.
+Also, add the secondary server endpoints to `secondary-order-service.properties` so that `User` clients
+are able to detect them.
 
 * `> javac */*/*java`
 * `> rmiregistry`
