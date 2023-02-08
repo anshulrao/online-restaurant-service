@@ -1,4 +1,5 @@
 # Online Restaurant Service
+[Please refer to the report [here](https://github.com/anshulrao/online-restaurant-service/blob/master/Report.pdf) for a more thorough dive into the project.]
 
 ## Architecture
 ![Architecture Diagram](https://user-images.githubusercontent.com/31268509/217649936-759206c3-1a02-426c-9f40-42c4c998ccd7.png)
