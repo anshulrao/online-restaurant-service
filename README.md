@@ -1,5 +1,8 @@
 # Online Restaurant Service
 
+## Architecture
+![Architecture Diagram](https://user-images.githubusercontent.com/31268509/217649936-759206c3-1a02-426c-9f40-42c4c998ccd7.png)
+
 ## Components
 
 ### Server
